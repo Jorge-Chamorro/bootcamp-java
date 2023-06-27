@@ -1,0 +1,7 @@
+{
+    "category": "Programacion",
+    "question": "¿Quien invento java?",
+    "options": ["James Gosling", "Nicola Tesla", "Brendan Eich", "Anders Hejlsberg"],
+    "answer": 0,
+    "explanation": "Java fue inventado por un equipo de desarrolladores liderado por James Gosling en Sun Microsystems a principios de la década de 1990. James Gosling es ampliamente reconocido como el padre de Java debido a su contribución fundamental en la creación del lenguaje."
+  }
